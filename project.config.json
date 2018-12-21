@@ -9,8 +9,8 @@
 	},
 	"miniprogramRoot": "dist/wx/",
 	"compileType": "miniprogram",
-	"appid": "touristappid",
-	"projectname": "my-project",
+	"appid": "wx9dffbaea60a4da64",
+	"projectname": "%E8%84%B8%E5%88%B7%E5%88%B7mpvue%E7%89%88",
 	"condition": {
 		"search": {
 			"current": -1,

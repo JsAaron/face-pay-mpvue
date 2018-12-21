@@ -181,7 +181,7 @@ var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._sel
     attrs: {
       "href": "/pages/index/main"
     }
-  }, [_vm._v("去往首页")])], 1)
+  }, [_vm._v("去往首页123")])], 1)
 }
 var staticRenderFns = []
 render._withStripped = true
